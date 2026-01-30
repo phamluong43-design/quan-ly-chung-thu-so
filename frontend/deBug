@@ -1,0 +1,2 @@
+setRows(response.data || []);
+console.log('rows sau set:', rows); // Kiểm tra state rows
